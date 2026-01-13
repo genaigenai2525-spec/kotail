@@ -12,7 +12,7 @@
 - [ ] デプロイURL共有 + 注意点（Vercel不都合）説明
 
 ## 発見・予想外のこと
-- 2026-01-13: まだなし（作業開始）
+- 2026-01-13: `genaigenai2525-spec` へのリポジトリ作成権限が不足（gh repo createが権限エラー）
 
 ## 決定したこと
 - 2026-01-13: GitHubは`genaigenai2525-spec/kotail`でpublicに作成（ユーザー指定）
